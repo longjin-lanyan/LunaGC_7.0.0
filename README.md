@@ -1,6 +1,6 @@
 # LunaGC-7.0.0 WIP
 
-# Fixed hot updates (you need to find the update configuration yourself)
+# Fixed the hot update component (you'll need to find the update configuration yourself)
 ## Note from the maintainer
 This is a fork from girluh's [LunaGC](https://github.com/girluh/LunaGC). Very early update so expect many bugs.
 
